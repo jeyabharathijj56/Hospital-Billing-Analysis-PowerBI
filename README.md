@@ -77,6 +77,29 @@ This project focuses on analyzing hospital operations and performance using Micr
 - Analyzing healthcare business performance.
 - Generating insights from hospital data.
 
+
+
+## 📸 Dashboard Screenshots
+
+### 1. Hospital Overview
+![Hospital Overview](Screenshot%202026-11-16%20215903.png)
+
+### 2. Patient Analytics
+![Patient Analytics](Screenshot%202026-11-16%20215935.png)
+
+### 3. Doctor Performance Analytics
+![Doctor Performance](Screenshot%202026-11-16%20215944.png)
+
+### 4. Appointment Analytics
+![Appointment Analytics](Screenshot%202026-11-16%20215954.png)
+
+### 5. Treatment and Diagnosis Analytics
+![Treatment and Diagnosis](Screenshot%202026-11-16%20220004.png)
+
+### 6. Billing and Revenue Analytics
+![Billing and Revenue](Screenshot%202026-11-16%20220017.png)
+
+
 ## 👩‍💻 Created By
 **Jeya Bharathi**
 
